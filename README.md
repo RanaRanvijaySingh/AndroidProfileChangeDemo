@@ -1,8 +1,9 @@
 AndroidProfileChangeDemo
 ========================
 This application shows how to change the phone profile from normal to silent and from silent to normal in an application.
-Step 1:  Create the layout with two buttons.
-Step 2:  Create the class to handle the onclick functions to change the profile .
+<br/>Step 1:  Create the layout with two buttons.
+<br/>Step 2:  Create the class to handle the onclick functions to change the profile .
+<br/><br/>
 ____________________________________________________________________________________________________________________________________________________________
 Step 1:  Create the layout with two buttons.
 
